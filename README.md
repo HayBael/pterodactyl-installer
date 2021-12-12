@@ -60,10 +60,10 @@ _\* Ubuntu 16 and Debian 8 no longer supported since Pterodactyl does not active
 
 ## Using the installation scripts
 
-To use the installation scripts, simply run this command as root. The script will ask you whether you would like to install just the panel, just the daemon or both.
+To use the installation scripts, simply run this command as root. The script will ask you whether you would like to See The Password
 
 ```bash
-bash <(curl -s https://pterodactyl-installer.se)
+
 ```
 
 _Note: On some systems, it's required to be already logged in as root before executing the one-line command (where `sudo` is in front of the command does not work)._
